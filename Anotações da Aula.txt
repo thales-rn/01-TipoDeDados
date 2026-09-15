@@ -1,0 +1,37 @@
+Crtrl + Alt + R = Abre o gerenciador de soluções 
+
+cpp = c plus plus (C++)
+
+xls = excel
+
+Todos os comandos terminam em ;
+
+Comentários em C é feito com = /* */
+
+cout console out (mostrar algo)
+ 
+endl  ou /n = mudar de linha (ir para de baixo)
+
+variáveis: int (até 4 bilhões de bytes), short(), long(além dos 4 bilhões de bytes) 
+
+float, double (valores variáveis)
+
+double usa o dobro do float (tem mais precisão para representar um valor om vírgula)
+
+usar float f para especificar o uso de um float padrão pois automaticamente ele pode usar o double
+
+sizeof = "tamnho de"
+
+bool = 
+
+character = 
+
+string = (uma cadeia de caracteres)
+
+
+
+
+
+
+
+
